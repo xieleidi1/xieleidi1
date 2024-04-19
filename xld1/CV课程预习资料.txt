@@ -1,0 +1,24 @@
+1、Anaconda安装(一款可以同时创建跟管理多个python环境的软件)
+https://blog.csdn.net/run_success/article/details/134656460
+
+
+2、Anaconda创建一个新python环境(安装人工智能常用的第三方python包，如：tensorflow、keras、pytorch)
+https://blog.csdn.net/run_success/article/details/134657807
+
+
+3、Pycharm安装(一款可以编写、调试python代码的智能集成工具)
+https://blog.csdn.net/run_success/article/details/134753812
+
+
+4、Pycharm配置Anaconda创建的新python环境
+https://blog.csdn.net/run_success/article/details/134755293
+
+
+5、开课前预习资料推荐：
+    (1)《动手学深度学习》
+        链接：https://zh.d2l.ai/index.html
+        学习目标：简单理解2、3章涉及的相关概念即可，不需要看懂或操作代码；
+		
+    (2)《统计学习方法》--扩展内容，可看可不看
+        链接：网盘链接的learnBook里有
+        学习目标：简单理解前3章概念即可
